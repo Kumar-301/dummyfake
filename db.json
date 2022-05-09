@@ -1,0 +1,8 @@
+{
+    "users":[
+    { "id": 1, "name": "kumar", "role":"back-end", "salary": 20000},
+    { "id": 2, "name": "sai",  "role":"front-end", "salary": 40000},
+    { "id": 3, "name": "kittu", "role":"back-end", "salary": 50000},
+    { "id": 4, "name": "abhi",  "role":"front-end", "salary": 60000}
+]
+}
